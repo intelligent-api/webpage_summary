@@ -27,7 +27,7 @@ This getting started guide shows you how to create your own version of this appl
 
 ### Intelligent API
 
-Follow the Intelligent API Getting Started guide https://docs.intelligent-api.com/docs/gettingstarted to create an account and then create a specific OAuth Credential with only the `text.summarize` scope specified.
+Follow the Intelligent API Getting Started guide https://docs.intelligent-api.com/docs/gettingstarted to create an account and then create a specific _*Basic Credential*_ with only the `text.summarize` scope specified.
 
 > Be sure to store the `Client Id` and `Client Secret` securely, we will be adding that to the `.env` file later.
 
